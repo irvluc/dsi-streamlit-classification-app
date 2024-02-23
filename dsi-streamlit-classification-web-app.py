@@ -6,7 +6,7 @@ import joblib
 
 # Load our model pipeline object
 
-model = joblib.load(r"C:\Users\Luca\Documents\Documents\DataScienceInfinity\Model Deployment\Streamlit\model.joblib")
+model = joblib.load(r"model.joblib")
 
 # Add title and instructions
 
